@@ -1,0 +1,26 @@
+header {
+	font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+}
+section { 
+	font-family: 'Droid Sans', sans-serif; 
+}
+
+li {
+	display: inline;
+}
+
+article {
+
+	border-style: solid;
+
+	border-width: medium;
+
+	background-color: #CCFFFF;
+
+	width: 640px;
+
+}
+
+body {
+	background-color: #d2d9db;
+}
